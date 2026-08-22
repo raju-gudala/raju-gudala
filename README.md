@@ -28,7 +28,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 **Simulation**
 
-`LTspice` `PSpice` `NI Multisim`
+`LTspice` `PSpice`
 
 **Firmware**
 
@@ -36,7 +36,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 **Microcontrollers**
 
-`STM32 (F1/F4)` `ESP32` `Arduino` `8051` `PIC` `Raspberry Pi`
+`STM32` `ESP32` `Arduino` `8051` `PIC` `Raspberry Pi`
 
 **Dev Tools**
 
