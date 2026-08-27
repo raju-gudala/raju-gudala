@@ -4,9 +4,9 @@
 
 I design embedded hardware end-to-end — schematic capture, multilayer PCB layout, power electronics, and firmware bring-up. My deepest project work has been in UAV flight controllers and power systems, and I'm continuously broadening into industrial and general-purpose embedded design.
 
-📍 Hyderabad, India
-📫 rajugudala730@gmail.com
-💼 LinkedIn: https://linkedin.com/in/raju-gudala
+📍 Hyderabad, India<br>
+📫 rajugudala730@gmail.com<br>
+💼 LinkedIn: https://linkedin.com/in/raju-gudala<br>
 🌐 Portfolio: https://raju-gudala.github.io
 
 ---
@@ -28,7 +28,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 **Simulation**
 
-`LTspice` `PSpice`
+`LTspice` `PSpice` `NI Multisim`
 
 **Firmware**
 
@@ -36,7 +36,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 **Microcontrollers**
 
-`STM32` `ESP32` `Arduino` `8051` `PIC` `Raspberry Pi`
+`STM32 (F1/F4)` `ESP32` `Arduino` `8051` `PIC` `Raspberry Pi`
 
 **Dev Tools**
 
@@ -107,8 +107,3 @@ Wide-input (5–40V) buck converter using the LM2596S-ADJ with adjustable output
 ---
 
 > *"Every trace has a reason. Every rail has a margin."*
-
-- Email: rajugudala730@gmail.com
-- GitHub: [@raju-gudala](https://github.com/raju-gudala)
-- LinkedIn: [raju-gudala](https://www.linkedin.com/in/raju-gudala)
-- 🔗 **Live site:** [raju-gudala.github.io](https://raju-gudala.github.io/)
