@@ -74,7 +74,7 @@ Field Deployment
 
 ## Featured Projects
 
-### UAV Flight Controller — Ti-Circle v1
+### UAV Flight Controller
 
 6-layer PCB, 250+ components, built around the STM32F427 with ArduPilot firmware support, an STM32F103 I/O co-processor, and a dedicated multi-rail power supply for flight-critical peripherals.
 
