@@ -91,13 +91,11 @@ Wide-input (5–40V) buck converter using the LM2596S-ADJ with adjustable output
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raju-gudala&show_icons=true&theme=tokyonight&hide_border=true" alt="Raju Gudala's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-gudala&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raju-gudala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-gudala&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raju-gudala&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
+
 ## 2026 Goals
 
 - Broaden beyond UAV avionics into industrial and consumer embedded hardware
