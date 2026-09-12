@@ -20,20 +20,6 @@ Wide-input **5–40V** buck converter using the LM2596S-ADJ with adjustable **3.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="Raju Gudala GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Raju Gudala Top Languages"
-  />
-</p>
 
 ---
 
