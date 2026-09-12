@@ -4,9 +4,19 @@
 
 I design embedded hardware end-to-end — schematic capture, multilayer PCB layout, power electronics, and firmware bring-up. My deepest project work has been in UAV flight controllers and power systems, and I'm continuously broadening into industrial and general-purpose embedded design.
 
-📍 Hyderabad, India  
-📫 rajugudala730@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/raju-gudala)
+📍 Hyderabad, India
+
+<p align="left">
+  <a href="mailto:rajugudala730@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raju-gudala/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://raju-gudala.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
