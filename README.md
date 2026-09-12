@@ -4,10 +4,9 @@
 
 I design embedded hardware end-to-end — schematic capture, multilayer PCB layout, power electronics, and firmware bring-up. My deepest project work has been in UAV flight controllers and power systems, and I'm continuously broadening into industrial and general-purpose embedded design.
 
-📍 Hyderabad, India<br>
-📫 rajugudala730@gmail.com<br>
-💼 LinkedIn: https://linkedin.com/in/raju-gudala<br>
-
+📍 Hyderabad, India  
+📫 rajugudala730@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/raju-gudala)
 
 ---
 
@@ -22,27 +21,27 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 ## Tech Stack
 
-**PCB Design**
+### PCB Design
 
 `KiCad` `Altium Designer` `EasyEDA`
 
-**Simulation**
+### Simulation
 
 `LTspice` `PSpice` `NI Multisim`
 
-**Firmware**
+### Firmware
 
 `C` `Embedded C`
 
-**Microcontrollers**
+### Microcontrollers
 
 `STM32 (F1/F4)` `ESP32` `Arduino` `8051` `PIC` `Raspberry Pi`
 
-**Dev Tools**
+### Dev Tools
 
 `STM32CubeIDE` `Keil µVision` `Proteus` `Git`
 
-**Protocols**
+### Protocols
 
 `UART` `SPI` `I2C` `CAN` `USB` `Wi-Fi`
 
@@ -50,7 +49,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 
 ## Hardware Design Flow
 
-```
+```text
 Requirements
      ↓
 Schematic Capture
@@ -68,41 +67,3 @@ Assembly & Bring-Up
 Bench Testing & Validation
      ↓
 Field Deployment
-```
-
----
-
-## Featured Projects
-
-### UAV Flight Controller
-
-6-layer PCB, 250+ components, built around the STM32F427 with ArduPilot firmware support, an STM32F103 I/O co-processor, and a dedicated multi-rail power supply for flight-critical peripherals.
-
-### Tethered Drone Power System
-
-End-to-end power delivery: 230V AC → 360V DC @ 8A (base station) → 24V DC @ 100A / 2.4kW (air unit), with real-time telemetry and automatic failover arbitration.
-
-### Adjustable DC-DC Buck Converter
-
-Wide-input (5–40V) buck converter using the LM2596S-ADJ with adjustable output (3.3–15V, 3A), UVLO, and EMI filtering — full schematic-to-PCB flow.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=raju-gudala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju-gudala&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-
-## 2026 Goals
-
-- Broaden beyond UAV avionics into industrial and consumer embedded hardware
-- Strengthen power electronics and EMI/EMC design skills
-- Ship more open-source hardware projects with full documentation
-- Land a full-time role as an Embedded Hardware Design Engineer
-
----
-
-> *"Every trace has a reason. Every rail has a margin."*
