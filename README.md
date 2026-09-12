@@ -7,7 +7,7 @@ I design embedded hardware end-to-end — schematic capture, multilayer PCB layo
 📍 Hyderabad, India<br>
 📫 rajugudala730@gmail.com<br>
 💼 LinkedIn: https://linkedin.com/in/raju-gudala<br>
-🌐 Portfolio: https://raju-gudala.github.io
+
 
 ---
 
