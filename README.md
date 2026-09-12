@@ -77,3 +77,19 @@ Assembly & Bring-Up
 Bench Testing & Validation
      ↓
 Field Deployment
+
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="Raju Gudala GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Raju Gudala Top Languages"
+  />
+</p>
